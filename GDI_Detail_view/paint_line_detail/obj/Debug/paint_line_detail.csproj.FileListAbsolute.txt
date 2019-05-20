@@ -1,0 +1,8 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\paint_line_detail\bin\Debug\paint_line_detail.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\paint_line_detail\bin\Debug\paint_line_detail.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\paint_line_detail\bin\Debug\paint_line_detail.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\paint_line_detail\obj\Debug\paint_line_detail.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\paint_line_detail\obj\Debug\paint_line_detail.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\paint_line_detail\obj\Debug\paint_line_detail.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\paint_line_detail\obj\Debug\paint_line_detail.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\paint_line_detail\obj\Debug\paint_line_detail.csprojResolveAssemblyReference.cache

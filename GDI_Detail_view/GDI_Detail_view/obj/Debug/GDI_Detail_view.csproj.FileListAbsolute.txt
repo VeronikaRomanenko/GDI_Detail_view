@@ -1,0 +1,8 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\GDI_Detail_view\bin\Debug\GDI_Detail_view.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\GDI_Detail_view\bin\Debug\GDI_Detail_view.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\GDI_Detail_view\bin\Debug\GDI_Detail_view.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\GDI_Detail_view\obj\Debug\GDI_Detail_view.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\GDI_Detail_view\obj\Debug\GDI_Detail_view.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\GDI_Detail_view\obj\Debug\GDI_Detail_view.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\GDI_Detail_view\obj\Debug\GDI_Detail_view.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\GDI_Detail_view\obj\Debug\GDI_Detail_view.pdb

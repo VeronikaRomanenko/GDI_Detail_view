@@ -1,0 +1,8 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\show_dots\bin\Debug\show_dots.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\show_dots\bin\Debug\show_dots.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\show_dots\bin\Debug\show_dots.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\show_dots\obj\Debug\show_dots.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\show_dots\obj\Debug\show_dots.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\show_dots\obj\Debug\show_dots.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\show_dots\obj\Debug\show_dots.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\show_dots\obj\Debug\show_dots.pdb

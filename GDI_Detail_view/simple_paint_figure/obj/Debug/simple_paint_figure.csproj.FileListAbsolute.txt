@@ -1,0 +1,8 @@
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\simple_paint_figure\bin\Debug\simple_paint_figure.exe.config
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\simple_paint_figure\bin\Debug\simple_paint_figure.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\simple_paint_figure\bin\Debug\simple_paint_figure.pdb
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\simple_paint_figure\obj\Debug\simple_paint_figure.csprojResolveAssemblyReference.cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\simple_paint_figure\obj\Debug\simple_paint_figure.Properties.Resources.resources
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\simple_paint_figure\obj\Debug\simple_paint_figure.csproj.GenerateResource.Cache
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\simple_paint_figure\obj\Debug\simple_paint_figure.exe
+D:\С.РПО.18.2 Романенко Вероника\WinForms\GDI_Detail_view\GDI_Detail_view\simple_paint_figure\obj\Debug\simple_paint_figure.pdb
